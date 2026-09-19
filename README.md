@@ -66,9 +66,8 @@ The polynomial terms did not improve on the baseline, so the simplest model was 
 ## Project Structure
 
 ```
-CarPrice-EDA-ML/
-├── data/                  # place cardata.csv here (not included)
-├── notebooks/
+CarPrice-EDA-Prediction/
+├── notebook/
 │   └── CarPrice-EDA-Prediction.ipynb
 ├── requirements.txt
 └── README.md
